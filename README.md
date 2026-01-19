@@ -33,4 +33,4 @@ Features:
  -Using TestNG
  
  After execution, Extent Reports will be generated at:
--/test-output/ExtentReport.html
+-/test-output/spark.html
